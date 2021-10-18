@@ -1,3 +1,4 @@
+
 create table as per the given Schema:
 
 create table cust1(
